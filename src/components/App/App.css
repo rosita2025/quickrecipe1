@@ -1,12 +1,12 @@
 /* App.css */
 
 body {
-    background: linear-gradient(135deg, #759479, #c5c9c6);
+    background: linear-gradient(135deg,#b82c69, #ad9f9a);
     overflow-x: hidden;
-    color: #d1c0ce;
+    color: #fcf2fb;
     font-family: 'Lato', sans-serif;
 }
 .app-container {
     position: relative;
-    height: 100%;
+    height: 50%;
 }
