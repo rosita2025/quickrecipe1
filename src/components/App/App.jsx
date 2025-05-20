@@ -12,7 +12,7 @@ const name = require('@rstacruz/startup-name-generator');
 // Class based component
 class App extends React.Component {
     state = {
-        headerText: "Your Brand, Your Name!",
+        headerText: "Your Name brand for Recipes",
         headerExpanded: true,
         suggestedNames: [],
     };
